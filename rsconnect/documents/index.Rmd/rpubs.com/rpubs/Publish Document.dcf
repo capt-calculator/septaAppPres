@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/193420/64081310c2b64ac38ba15562c3f6b815
+bundleId: https://api.rpubs.com/api/v1/document/193420/64081310c2b64ac38ba15562c3f6b815
+url: http://rpubs.com/capt_calcuator/193420
+when: 1467499160.6444
